@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+.App {
+    position: relative;
+    z-index: 10;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    padding: 1.5rem;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+h1, h2 {
+    margin: 0.5rem 0;
+}
+
+section {
+    margin-bottom: 2rem;
+}
